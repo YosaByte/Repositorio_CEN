@@ -1,4 +1,4 @@
-¿Qué es Coordinador Eléctrico Nacional?
+¿Qué es Coordinador Eléctrico Nacional (CEN)?
 
 En el siguiente proyecto se busca describir de forma sucinta qué es el
 Coordinador Eléctrico Nacional, añadiendo su misión y visión.
